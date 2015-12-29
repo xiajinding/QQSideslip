@@ -1,0 +1,17 @@
+//
+//  QQSideSlip.pch
+//  QQSideslip
+//
+//  Created by Lemon on 15/12/29.
+//  Copyright © 2015年 LemonXia. All rights reserved.
+//
+
+#ifndef QQSideSlip_pch
+#define QQSideSlip_pch
+
+#define kScreenHeight  [UIScreen mainScreen].bounds.size.height
+#define kScreenWidth  [UIScreen mainScreen].bounds.size.width
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* QQSideSlip_pch */
